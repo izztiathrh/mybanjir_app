@@ -10,7 +10,7 @@ Watch the demo here:
 [https://youtube.com/your-video-link](https://youtu.be/E3L-VSs2UpE?si=koBGpIjDhmjPlPRV)
 
 ## 📄 Project Report
-[View Report](docs/BORNEOHack_Report_HashtagSugoi.pdf)
+[View Report](BORNEOHack_Report_HashtagSugoi.pdf)
 
 ## 📊 Presentation Slides
-[View Slides](slides/MyBanjir_Slide_BORNEOHack.pdf)
+[View Slides](MyBanjir_Slide_BORNEOHack.pdf)
