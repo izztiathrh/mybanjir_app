@@ -8,3 +8,9 @@ Figma Prototype:
 ## 🎥 Demo Video
 Watch the demo here:
 [https://youtube.com/your-video-link](https://youtu.be/E3L-VSs2UpE?si=koBGpIjDhmjPlPRV)
+
+## 📄 Project Report
+[View Report](docs/BORNEOHack_Report_Hashtag Sugoi.pdf)
+
+## 📊 Presentation Slides
+[View Slides](slides/MyBanjir_Slide_BORNEOHack.pdf)
